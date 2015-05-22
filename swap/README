@@ -1,1 +1,4 @@
 Write a function to swap a number in place (without temporary variable)
+
+(gem install rspec)
+rspec spec/*
